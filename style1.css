@@ -1,0 +1,56 @@
+strong{
+    font-family: 'Lucida Sans';
+    font-weight: bold;
+}
+#card{
+    font-family:'Roboto';
+    margin-left: 200px;
+}
+#aboutMe{
+    font-family: 'Times New Roman', Times, serif;
+}
+#navs{
+    background-color: hsl(71, 84%, 80%);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#ts{
+    font-size: larger;
+    background-color:thistle;
+}
+#TRR{
+    font-size: x-large;
+}
+#Th{
+    background-color: rgb(242, 232, 97);
+}
+#MCD{
+    font-family: 'Times';
+}
+#MCD:hover{
+    display: inline;
+    background-color: coral;
+}
+#para{
+    font-family: 'sans-serif';
+}
+#TB{
+    font-weight: bold;
+    font-size: large;
+}
+li{
+    display: inline;
+}
+#SDIV{
+    background-color: rgb(189, 178, 202);
+    text-align: center;
+    padding: 5%;
+}
+#List li::before {
+    content: "👍";
+  }
+  #Icon{
+    font-size: 150%;
+    display: inline-block;
+  }
+ 
